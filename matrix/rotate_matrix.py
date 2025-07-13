@@ -1,8 +1,6 @@
 """
-In this problem, we want to rotate the matrix elements by 90, 180, 270
-(counterclockwise)
-Discussion in stackoverflow:
-https://stackoverflow.com/questions/42519/how-do-you-rotate-a-two-dimensional-array
+Rotate 2D matrix by 90, 180, or 270 degrees counterclockwise
+Discussion reference: https://stackoverflow.com/questions/42519/how-do-you-rotate-a-two-dimensional-array
 """
 
 from __future__ import annotations
